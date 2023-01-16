@@ -1,4 +1,10 @@
-# Proiect-POO
+[Română :romania:](#campionat-de-fotbal)
+
+[English :eu:](#assignment)
+
+# Campionat de fotbal
+
+##### Proiectat în C++, utilizând concepte de „Programare orientată pe obiecte”.
 Proiectul prezentat reprezinta un campionat de fotbal in care se regasesc
 cateva echipe si meciuri programate. Urmeaza ca noi sa introducem de la tastatura
 o noua echipa si sa aflam anumite detalii despre ea, sau sa programam un meci
@@ -9,6 +15,7 @@ UTA_Arad (9), Sepsi_Sf_Gheorghe (10) , Chindia_Targoviste (11), FCU_Craiova (12)
 Gaz_Metan_Medias (16).
 
 Urmatoarele date care vor fi introduse vor reprezenta:
+
 - Numele echipei (string);
 - cod echipa; (diferit de 1, 2, 3, 8, 14 < 16)
 - numar jucatori; (> 15)
@@ -17,8 +24,10 @@ Urmatoarele date care vor fi introduse vor reprezenta:
 - numar egaluri;
 - numar infrangeri;
 
+
 Pentru ca input-ul sa fie valid, trebuie sa introducem datele dupa instructiunile din paranteze.
 Se va verifica daca echipa introdusa de la tastatura nu este deja inscrisa in campionat.
+
 
 ~ verifcod (Clasa Echipa) : verifica daca codul echipei introduse de la tastatura este valid;
 
@@ -27,6 +36,7 @@ Se va verifica daca echipa introdusa de la tastatura nu este deja inscrisa in ca
 ~ verifstaff (Clasa Echipa): verifica daca staff-ul tehnic are suficienti membrii in componenta;
 
 ~ calculpuncte (Clasa Echipa): calculeaza cate puncte a acumulat echipa in urma rezultatelor (victorie, egal, infrangere);
+
 
 - se va compara echipa introdusa de la tastatura cu restul echipelor din punct de vedere al performantei
 - se va face diferenta de puncte dintre echipa introdusa si restul
